@@ -1,0 +1,2 @@
+# Release signing key (public). Every client server verifies each build with it. Private key: devlab /root/.secrets/jannah-release-signing.key
+jannah-release ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOLyYNxEhcpfRltkgQ2tajRJI81V+w6yHZuQzUdCbUSU
