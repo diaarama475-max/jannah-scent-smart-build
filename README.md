@@ -1,4 +1,4 @@
-# Jannah Scent Smart — builds
+# Smart Scent ERP — builds
 
 Compiled builds only (no source). Each release holds `jannah-x.y.z.tar.gz`, its signature and `latest.json`.
 
